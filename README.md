@@ -7,7 +7,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 <p align="center">
-  <img src="assets/tf-wordpress.png" width="400" alt="AWS/Terraform Arhcitecture Diagram">
+  <img src="assets/tf-wordpress.png" width="400" alt="AWS/Terraform Architecture Diagram">
 </p>
 
 This project uses Terraform to provision a full WordPress setup on AWS. It deploys an EC2 instance in a public subnet, installs Apache, PHP and WordPress through userdata, and exposes the site over HTTP using the instance’s public IP.
