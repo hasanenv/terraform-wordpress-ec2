@@ -16,7 +16,7 @@ resource "aws_instance" "wordpress" {
 # sg rules for wordpress instance
 resource "aws_security_group" "wordpress_sg" {
   name        = "wordpress_sg"
-  description = "Allow HTTP and HTTPS traffic"
+  description = "Allow HTTP traffic"
 
 # inbound http
 ingress {
