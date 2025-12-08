@@ -6,7 +6,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Cloud-Init](https://img.shields.io/badge/Cloud--Init-6DB33F?logo=cloud-init&logoColor=white)
 <p align="center">
-  <img src="assets/tf-init.png" width="500" alt="AWS/Terraform Architecture Diagram">
+  <img src="/assets/tf-init.png" width="500" alt="AWS/Terraform Architecture Diagram">
 </p>
 
 This project demonstrates a slightly different approach to deploying an EC2 instance on AWS.  
@@ -38,9 +38,9 @@ Using cloud-init provides a cleaner and more maintainable way to configure insta
 5. Once the instance finishes booting, NGINX is serving content immediately.
 
 <p align="center">
-  <img src="assets/nginx-screenshot.png" width="600" alt="Nginx page screenshot">
+  <img src="/assets/nginx-screenshot.png" width="600" alt="Nginx page screenshot">
 </p>
 
 <p align="center">
-  <img src="assets/terminal-output.png" width="600" alt="Terminal output">
+  <img src="/assets/terminal-output.png" width="600" alt="Terminal output">
 </p>
